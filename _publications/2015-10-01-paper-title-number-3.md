@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Optimising the load path of compression-only thrust networks through independent sets"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2020-
+venue: 'Structural and Multidisciplinary Optimization 60 (1), 231-244'
+paperurl: 'https://www.block.arch.ethz.ch/brg/publications/871'
+citation: 'Liew A., Maia Avelino R., Moosavi V., Van Mele T. and Block P. Optimising the load path of compression-only thrust networks through independent sets, <i>Structural and Multidisciplinary Optimization</i>, 60: 231-244,2019'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper presents network load-path optimisation for the weight minimisation of compression-only thrust networks, allowing for the design of material efficient surface structures. A hybrid evolutionary and function-gradient optimisation process finds the optimal internal force state of the network, by manipulating the force densities of a selected numberof edges based on the network indeterminacy. These selected edges are the independent sets, and are found through the Reduced Row Echelon form of the network’s equilibrium matrix. It was found that networks can have certain independent sets that have a significant influence on both the stability of the optimisation algorithm, and in the final load path/volume of the structure. Finding the most effective independent sets was handled by data-driven methods, applied to many thousands of independent set trials. This provided insight into the behaviour of the underlying network and dramatically increased the rate of finding successful independent sets. The importance and weights of the network edges highlighted key areas of the network that allowed structural judgement and improvements to be made.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.block.arch.ethz.ch/brg/publications/871)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Liew A., Maia Avelino R., Moosavi V., Van Mele T. and Block P. Optimising the load path of compression-only thrust networks through independent sets, <i>Structural and Multidisciplinary Optimization</i>, 60: 231-244,2019.
