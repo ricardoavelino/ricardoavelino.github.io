@@ -3,7 +3,7 @@ title: "Optimising the load path of compression-only thrust networks through ind
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper presents network load-path optimisation for the weight minimisation of compression-only thrust networks, allowing for the design of material efficient surface structures.'
-date: 2019
+date: 2019-02-13
 venue: 'Structural and Multidisciplinary Optimization 60 (1), 231-244'
 paperurl: 'https://www.block.arch.ethz.ch/brg/publications/871'
 citation: 'Liew A., Maia Avelino R., Moosavi V., Van Mele T. and Block P. Optimising the load path of compression-only thrust networks through independent sets, <i>Structural and Multidisciplinary Optimization</i>, 60: 231-244,2019'
