@@ -14,14 +14,14 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Posts</h2>
+<!-- <h2>Posts</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
-{% capture written_label %}'None'{% endcapture %}
+<!-- {% capture written_label %}'None'{% endcapture %} -->
 
-{% for collection in site.collections %}
+<!-- {% for collection in site.collections %}
 {% unless collection.output == false or collection.label == "posts" %}
   {% capture label %}{{ collection.label }}{% endcapture %}
   {% if label != written_label %}
@@ -34,4 +34,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
