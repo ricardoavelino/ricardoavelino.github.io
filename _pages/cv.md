@@ -9,13 +9,19 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Architecture and Technology, ETH Zurich, 2022
+* M.S. in Structural Engineering, École Nationale des Ponts Paristech (ENPC), 2018
 * B.S. in Civil Engineering,  Universidade de São Paulo (Poli-USP), 2018
-* M.S. in Structural Engineering, École des Ponts Paristech (ENPC), 2018
-* Ph.D in Architecture and Technology, ETH Zurich, 2022 (expected)
 
 Work experience
 ======
-* 2019-Current: Doctoral Researcher
+* 2023-Present: Postdoctoral Researcher
+  * Physical Chemistry of Building Materials + Block Research Group @ ETH Zurich.
+  * Combining augmented reality and structural analysis for the preservation of masonry built heritage. 
+  * Supervisors: [Prof. Dr. Robert Flatt](https://ifb.ethz.ch/pcbm/people/robert-flatt.html) and [Prof. Dr. Philippe Block](https://www.block.arch.ethz.ch/brg/people/philippe-block).
+
+
+* 2019-2022: Doctoral Researcher
   * Block Research Group @ ETH Zurich.
   * Research funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) with the aim of developing practical computational tools to improve assessment of historic masonry structures.
   * Supervisors: [Prof. Dr. Philippe Block](https://www.block.arch.ethz.ch/brg/people/philippe-block), and [Dr. Tom Van Mele](https://www.block.arch.ethz.ch/brg/people/tom-van-mele).
