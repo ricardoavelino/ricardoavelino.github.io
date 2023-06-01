@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ricardo Maia Avelino"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate | ETH Zurich"
+  bio              : "Postdoctoral Researcher"
   location         : "Zurich, Switzerland"
-  employer         : "Block Research Group (BRG)"  # "https://www.block.arch.ethz.ch"
+  employer         : "ETH Zurich"  # "https://www.block.arch.ethz.ch"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=x1FhoYcAAAAJ&hl=fr"
+  googlescholar    : "https://scholar.google.com/citations?user=x1FhoYcAAAAJ&hl"
   email            : "mricardo@ethz.ch"
   researchgate     :  "https://www.researchgate.net/profile/Ricardo_Avelino2"
   uri              :
