@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ricardo Maia Avelino"
 title_separator          : "-"
 name                     : &name "Ricardo Maia Avelino"
-description              : &description "PhD Candidate | ETH Zurich"
+description              : &description "Postdoctoral Researcher | ETH Zurich"
 url                      : https://ricardoavelino.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ricardoavelino/ricardoavelino.github.io"
