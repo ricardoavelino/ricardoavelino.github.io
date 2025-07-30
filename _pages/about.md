@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a structural engineer and code developer with strong interest in historic structures and optimisation. 
+I am a structural designer and researcher with strong interest in AI, sustainable design, historic structures and optimization. 
 
-I am currently a postdoctoral researcher at the Chair of [Physical Chemistry of Building Materials](https://ifb.ethz.ch/pcbm) and the [Block Research Group](https://www.block.arch.ethz.ch/) at ETH Zurich. I am also research affiliate at the Center for Augmented Computational Design in Architecture, Engineering and Construction ([Design++](https://designplusplus.ethz.ch)). 
+I am currently a postdoctoral fellow at the Center for Augmented Computational Design in Architecture, Engineering and Construction ([Design++](https://designplusplus.ethz.ch)) where I am hosted by the [Block Research Group](https://www.block.arch.ethz.ch/) and the [Interactive Visualization & Intelligence Augmentation Lab](https://ivia.ethz.ch) researching on AI agents for structural design. I am also a structural engineer consultant in the architectural & engineering firm [Skidmore Owings & Merrill (SOM)](https://www.som.com/) where I assist with complex structural engineering projects.
 
-I work at the interface of structural mechanics, numerical optimisation and architecture. My research interest includes combining augmented reality and structural analysis to improve the preservation of masonry heritage buildings and developing optimisation algorithms to design efficient low-carbon structures.
+My work focuses on the interface of structural mechanics, computational design and architecture. I aim to bring new technologies, such as AI and AR to improve the productivity in the AEC industry helping to design efficient low-carbon structures and preserve and protect existing buildings.
 
-In December 2022, I defended my PhD at ETH Zurich advised by Prof. Dr. Philippe Block where I developed novel computational analysis methods to assess complex unreinforced masonry structures and design efficient structural systems. My [doctoral dissertation](https://doi.org/10.3929/ethz-b-000611351) was nominated for the ETH Medal for outstanding dissertation and funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx).
+On my [doctoral dissertation](https://doi.org/10.3929/ethz-b-000611351) at ETH Zurich, I developed novel computational analysis methods to assess complex unreinforced masonry structures and design efficient structural systems, having mz work nominated to the ETH Medal. I also worked as a postdoctoral researcher for the Heritage++ project at Design++ and as a strctural engineer at SOM designing stuctures ranging from high-rise buildings to longspan structures to shell and cable net structures.
 
-Previously, I graduated in a dual degree program at [Universidade de São Paulo (Poli-USP)](https://www.poli.usp.br) and [École des Ponts Paristech](https://www.ecoledesponts.fr), where I received highest merit (Prix Betancout) and the Eiffel excellence scholarship. I also worked as structural engineer intern in the architectural firm [Skidmore Owings & Merril (SOM)](https://www.som.com/).
+I hold a Bachelor and Master's degrees in Civil/Structural Engineering from [Universidade de São Paulo (Poli-USP)](https://www.poli.usp.br) and [École des Ponts Paristech](https://www.ecoledesponts.fr)
 
 I plan to update this with my latest publication and software development. [Get in touch](malito:mricardo@ethz.ch) if you want to collaborate!
