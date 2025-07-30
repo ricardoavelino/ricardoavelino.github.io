@@ -14,8 +14,6 @@ I am an incoming postdoctoral fellow at the Center for Augmented Computational D
 
 My work focuses on the interface of structural mechanics, computational design and architecture. I aim to bring new technologies, such as AI and AR to improve the productivity in the AEC industry helping to design efficient low-carbon structures and preserve and protect existing buildings.
 
-On my [doctoral dissertation](https://doi.org/10.3929/ethz-b-000611351) at ETH Zurich, I developed novel computational analysis methods to assess complex unreinforced masonry structures and design efficient structural systems, having my work nominated to the ETH Medal. I also worked as a postdoctoral researcher for the Heritage++ project at Design++ and as a structural engineer at SOM designing structures ranging from high-rise buildings to long span structures to shell and cable nets.
-
-I hold a Bachelor and Master's degrees in Civil/Structural Engineering from [Universidade de São Paulo (Poli-USP)](https://www.poli.usp.br) and [École des Ponts / Institut Polytechnique de Paris](https://www.ecoledesponts.fr)
+On my [doctoral dissertation](https://doi.org/10.3929/ethz-b-000611351) at ETH Zurich, I developed novel computational analysis methods to assess complex unreinforced masonry structures and design efficient structural systems, having my work nominated to the ETH Medal. I also worked as a postdoctoral researcher for the [Heritage++](https://letters.rilem.net/index.php/rilem/article/view/202) project at ETH and as a structural engineer at SOM designing structures ranging from high-rise buildings to long span structures to shell and cable nets.
 
 I plan to update this with my latest publication and software development. [Get in touch](malito:mricardo@ethz.ch) if you want to collaborate!
