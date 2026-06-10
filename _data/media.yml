@@ -1,0 +1,34 @@
+# Each item links out to a page about Ricardo's work.
+# Add `logo: /images/media/<file>.png` to show a grayscale logo instead of the name.
+press:
+  - name: ETH Zürich News
+    title: "AI and extended reality help to preserve built cultural heritage"
+    year: 2025
+    url: https://ethz.ch/en/news-and-events/eth-news/news/2025/11/ai-and-extended-reality-help-to-preserve-built-cultural-heritage.html
+    logo: /images/media/eth.svg
+  - name: New York Magazine
+    title: "Imagining a City of Wood"
+    year: 2025
+    url: https://www.curbed.com/article/mass-timber-nyc-construction-projects.html
+    logo: /images/media/nymag.svg
+  - name: ETH Zürich News
+    title: "Two ETH medals in vault construction"
+    year: 2024
+    url: https://arch.ethz.ch/en/news-und-veranstaltungen/news-kanal/2024/03/zwei-eth-medaillen.html
+    logo: /images/media/eth.svg
+  - name: USP Polytechnic School News
+    title: "Brazilian receives award on exchange programme in France"
+    year: 2019
+    url: https://www.poli.usp.br/noticias/11187-brasileiro-e-premiado-por-desempenho-em-intercambio-na-franca.html
+    logo: /images/media/usp.png
+projects:
+  - name: ETH Design++
+    title: "Fellowship project on AI agents for structural design"
+    year: 2026
+    url: https://designplusplus.ethz.ch/research/fellowship-projects/ai-agents.html
+    logo: /images/media/designpp.png
+  - name: CARBCOMN
+    title: "Carbon-negative compression-dominant 3DPC structures"
+    year: 2025
+    url: https://carbcomn.ugent.be/
+    logo: /images/media/carbcomn.png

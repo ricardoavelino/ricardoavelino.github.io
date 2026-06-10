@@ -1,0 +1,10 @@
+# Photos for the scrolling strip at the top of the Outreach page.
+# Add as many as you like — teaching, conference talks, site visits, workshops…
+# Each item: image (path under /images/…) and an optional caption (shown on hover).
+# Drop new photos into images/highlights/ and add a line here.
+- image: /images/teaching/himass.jpg
+  caption: "HIMASS Summer School · Anagni, Italy"
+- image: /images/teaching/lecture.jpg
+  caption: "Teaching graphic statics · ETH Zürich"
+- image: /images/teaching/sahc-presenting.jpeg
+  caption: "Presenting at the SAHC 2025 Conference · Lausanne"

@@ -175,33 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # All collections are data-only — rendered as lists on the pages,
+  # no standalone page is generated per item.
   publications:
-    output: true
-    permalink: /:collection/:path/
-  software:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   talks:
-    output: true
-    permalink: /:collection/:path/
+    output: false
+  teaching:
+    output: false
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -227,14 +212,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _software
-  - scope:
-      path: ""
-      type: software
-    values:
-      layout: single
-      author_profile: true
-      share: true
       comment: true
   # _talks
   - scope:

@@ -1,19 +1,25 @@
 ---
+layout: clean
+nav: about
+title: ""
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a structural designer and researcher with strong interest in AI, sustainable design, historic structures and optimization. 
+<h1 class="page-title">About</h1>
 
-I am an incoming postdoctoral fellow at the Center for Augmented Computational Design in Architecture, Engineering and Construction ([Design++](https://designplusplus.ethz.ch)) where I will be hosted by the [Block Research Group](https://www.block.arch.ethz.ch/) and the [Interactive Visualization & Intelligence Augmentation Lab](https://ivia.ethz.ch) researching on AI agents for structural design. I am also a structural engineer consultant in the architectural & engineering firm [Skidmore Owings & Merrill (SOM)](https://www.som.com/) where I assist with complex structural engineering projects.
+<section class="about reveal">
+  <p>I work at the interface of structural engineering, architecture, and computer science, developing intelligent computational tools that help engineers design low-carbon structures and assess and preserve existing ones.</p>
 
-My work focuses on the interface of structural mechanics, computational design and architecture. I aim to bring new technologies, such as AI and AR to improve the productivity in the AEC industry helping to design efficient low-carbon structures and preserve and protect existing buildings.
+  <p>I am currently the <strong>Design++ Postdoctoral Fellow</strong> at ETH&nbsp;Z&uuml;rich, appointed across the Departments of Computer Science and Architecture working at the <a href="https://www.block.arch.ethz.ch/">Block Research Group</a> and the <a href="https://ivia.ethz.ch">Interactive Visualization &amp; Intelligence Augmentation Lab</a>. My research focuses on improving human&#8211;AI collaboration for structural design and assessment. I am also the co-lead of the EU&nbsp;Horizon <a href="https://carbcomn.ugent.be/">CARBCOMN</a> project on carbon-negative, compression-dominant structures. In 2025, I founded Maia Avelino Structural Design (MASD), a structural and computational design consultancy.</p>
 
-On my [doctoral dissertation](https://doi.org/10.3929/ethz-b-000611351) at ETH Zurich, I developed novel computational analysis methods to assess complex unreinforced masonry structures and design efficient structural systems, having my work nominated to the ETH Medal. I also worked as a postdoctoral researcher for the [Heritage++](https://letters.rilem.net/index.php/rilem/article/view/202) project at ETH and as a structural engineer at SOM designing structures ranging from high-rise buildings to long span structures to shell and cable nets.
+  <p>Previously, I was a structural engineer at <a href="https://www.som.com/">Skidmore, Owings &amp; Merrill (SOM)</a> working in the New York and San Francisco offices. At SOM, I designed a wide range of projects including high-rises, long-span roofs, gridshells, cable nets, and footbridges, and developed Python-based tools and AI agents for engineering.</p>
 
-I plan to update this with my latest publication and software development. [Get in touch](malito:mricardo@ethz.ch) if you want to collaborate!
+  <p>I completed my <a href="https://doi.org/10.3929/ethz-b-000611351">PhD at ETH&nbsp;Z&uuml;rich</a> in 2023 being awarded the ETH&nbsp;Medal &mdash; for outstanding work. My PhD developed new geometry-based computational methods to assess unreinforced masonry structures which were later demonstrated through an extended-reality (XR) interface at the 13th-century Lausanne Cathedral. Before starting my PhD, I graduated with a M.Sc. (Hons.) in Structural Engineering from &Eacute;cole des Ponts et Chauss&eacute;es and a Bachelor in Civil Engineering from the University of S&atilde;o Paulo.</p>
+
+  <p>In my free time I like to cycle around the Zurich lake and love puzzle solving. </p>
+
+  <p><a href="{{ '/contact/' | relative_url }}">Get in touch</a> if you&rsquo;d like to collaborate.</p>
+</section>

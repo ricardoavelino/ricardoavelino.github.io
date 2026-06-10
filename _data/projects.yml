@@ -1,0 +1,44 @@
+# Built projects & prototypes. Groups are rendered in order by the Projects page.
+# Each item: title, org, location, year, image, description, and an optional url.
+professional:
+  - title: "UC Merced 2020 Campus Expansion"
+    org: "Skidmore, Owings & Merrill"
+    location: "Merced, California"
+    year: "2016–2017"
+    image: /images/projects/ucmerced.jpg
+    url: https://www.som.com/projects/university-of-california-merced-2020-expansion/
+    description: "Structural design of four buildings on a high-seismicity site, from concept through construction documents — lateral systems, RC slabs, beams, columns, and shallow foundations."
+  - title: "LACMA — New Building (David Geffen Galleries)"
+    org: "Skidmore, Owings & Merrill"
+    location: "Los Angeles, California"
+    year: "2016–2017"
+    image: /images/projects/lacma.jpg
+    url: https://www.som.com/news/lacma-opens/
+    description: "Serpentine, cantilevering museum building by Peter Zumthor. Led the deep-foundation concept (1,800 piles in tar-impregnated soil) and the base-isolation system above and below the isolation plane."
+prototypes:
+  - title: "Stereodome"
+    org: "University of São Paulo"
+    location: "São Paulo, Brazil"
+    year: "2018"
+    image: /images/projects/stereodome.jpg
+    url: https://www.researchgate.net/publication/335977528_Stereodome_I_design_fabrication_and_installation_of_a_Styrofoam_masonry_vault
+    description: "Design, production, and installation of a funicular, three-legged Styrofoam masonry vault — form-found, fabricated, and built on site."
+  - title: "Building Freeform"
+    org: "École des Ponts et Chaussées"
+    location: "Champs-sur-Marne, France"
+    year: "2017"
+    image: /images/projects/freeform.jpg
+    url: https://thinkshell.fr/building-freeform-2017/
+    description: "A 50&nbsp;m² robotically-fabricated timber pavilion of 160 straight beams and 50 planar panels, using a reciprocal geometry to simplify connections."
+  - title: "Argamassa Armada"
+    org: "EPFL — Blue Factory"
+    location: "Fribourg, Switzerland"
+    year: "2021"
+    image: /images/projects/argamassa.jpg
+    description: "Hands-on prototyping of cast concrete shell elements in textile-reinforced concrete (TRC) — from shell-geometry analysis to full-scale built prototypes."
+  - title: "Anti-funicular Balloon Pavilion"
+    org: "PUC Minas"
+    location: "Belo Horizonte, Brazil"
+    year: "2018"
+    image: /images/projects/puc.jpg
+    description: "A form-found, anti-funicular pavilion designed and built with architecture students using balloons as a physical form-finding device."
