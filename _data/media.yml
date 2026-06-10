@@ -1,6 +1,11 @@
 # Each item links out to a page about Ricardo's work.
 # Add `logo: /images/media/<file>.png` to show a grayscale logo instead of the name.
 press:
+  - name: Parametric Architecture
+    title: "ETH Zürich Develops AI and XR Co-Pilot"
+    year: 2025
+    url: https://parametric-architecture.com/eth-zurich-develops-ai-and-xr-co-pilot/
+    logo: /images/media/parametric.png
   - name: ETH Zürich News
     title: "AI and extended reality help to preserve built cultural heritage"
     year: 2025
