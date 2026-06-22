@@ -38,3 +38,18 @@ if (location.search.indexOf('sent=true') !== -1) {
     form.reset();
   }
 }
+
+// --- Mobile nav toggle (hamburger) ---
+(function(){
+  const btn = document.querySelector('.navtoggle');
+  const nav = document.getElementById('navlinks');
+  if (!btn || !nav) return;
+  btn.addEventListener('click', () => {
+    const open = nav.classList.toggle('open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  // close after tapping a link
+  nav.addEventListener('click', (e) => {
+    if (e.target.closest('a')) { nav.classList.remove('open'); btn.setAttribute('aria-expanded','false'); }
+  });
+})();

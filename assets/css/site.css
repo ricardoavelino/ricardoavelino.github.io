@@ -19,7 +19,17 @@
   .navlinks{display:flex; gap:26px; font-family:var(--sans); font-size:14px}
   .navlinks a{color:var(--muted); text-decoration:none; transition:color .2s ease}
   .navlinks a:hover{color:var(--accent)}
-  @media (max-width:640px){.navlinks{display:none}}
+  .navtoggle{display:none; background:none; border:0; padding:6px; margin:-6px -6px -6px 0;
+    color:var(--accent); cursor:pointer; line-height:0}
+  .navtoggle svg{width:26px; height:26px; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round}
+  @media (max-width:640px){
+    .navtoggle{display:block}
+    .navlinks{display:none; position:absolute; top:100%; left:0; right:0;
+      flex-direction:column; gap:0; background:var(--bg);
+      border-bottom:1px solid var(--hair); box-shadow:0 16px 32px -20px rgba(31,78,121,.5); padding:4px 0}
+    .navlinks.open{display:flex}
+    .navlinks a{padding:13px 28px; font-size:16px}
+  }
 
   /* ---------- hero ---------- */
   .hero{padding:74px 0 18px}
@@ -193,7 +203,9 @@ body{ background:var(--bg); }
 .marquee .media-item{flex:0 0 auto; width:174px;}
 @keyframes marquee-rtl{from{transform:translateX(0)}      to{transform:translateX(-50%)}}
 @keyframes marquee-ltr{from{transform:translateX(-50%)}   to{transform:translateX(0)}}
-@media (prefers-reduced-motion:reduce){.marquee-track{animation:none}}
+/* The marquee is a gentle, decorative auto-scroll kept on all devices
+   (incl. iOS "Reduce Motion"); the page's entrance reveals still honour
+   prefers-reduced-motion above. */
 
 /* ---- Contact form ---- */
 .contact-form{max-width:580px; margin-top:6px}

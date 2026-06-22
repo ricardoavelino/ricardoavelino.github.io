@@ -15,7 +15,10 @@
 <nav class="topnav">
   <div class="wrap">
     <a class="brand" href="{{ '/' | relative_url }}">Ricardo&nbsp;Maia&nbsp;Avelino</a>
-    <div class="navlinks">
+    <button class="navtoggle" aria-label="Menu" aria-expanded="false" aria-controls="navlinks">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <div class="navlinks" id="navlinks">
       <a href="{{ '/' | relative_url }}"{% if page.nav == 'about' %} class="active"{% endif %}>About</a>
       <a href="{{ '/publications/' | relative_url }}"{% if page.nav == 'publications' %} class="active"{% endif %}>Publications</a>
       <a href="{{ '/projects/' | relative_url }}"{% if page.nav == 'projects' %} class="active"{% endif %}>Projects</a>
