@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} &middot; Ricardo Maia Avelino</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body class="projpage">
+
+<header class="proj-top">
+  <div class="proj-wrap">
+    <a class="proj-back" href="{{ '/' | relative_url }}">&larr;&nbsp;Ricardo&nbsp;Maia&nbsp;Avelino</a>
+  </div>
+</header>
+
+<main class="proj-wrap proj-main">
+
+  {% if page.venue %}<p class="proj-venue">{{ page.venue }}</p>{% endif %}
+  <h1 class="proj-title">{{ page.title }}</h1>
+  {% if page.authors %}<p class="proj-authors">{{ page.authors }}</p>{% endif %}
+  {% if page.affiliations %}<p class="proj-affil">{{ page.affiliations }}</p>{% endif %}
+
+  <div class="proj-links">
+    {% if page.paper %}<a class="pbtn" href="{{ page.paper }}" target="_blank" rel="noopener">Paper</a>{% endif %}
+    {% if page.poster %}<a class="pbtn" href="{{ page.poster }}" target="_blank" rel="noopener">Poster</a>{% endif %}
+    {% if page.video %}<a class="pbtn" href="{{ page.video }}" target="_blank" rel="noopener">Intro&nbsp;Video</a>{% endif %}
+    {% if page.code %}<a class="pbtn" href="{{ page.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+    {% if page.bibtex %}<button class="pbtn" data-bib="bib-proj">BibTeX</button>{% endif %}
+  </div>
+  {% if page.bibtex %}<div class="bibtex" id="bib-proj" hidden><span class="copy">Copy</span><code>{{ page.bibtex }}</code></div>{% endif %}
+
+  {% if page.hero_video %}
+  <div class="proj-hero">
+    <video autoplay muted loop playsinline{% if page.teaser %} poster="{{ page.teaser | relative_url }}"{% endif %}>
+      <source src="{{ page.hero_video | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  {% elsif page.teaser %}
+  <div class="proj-hero"><img src="{{ page.teaser | relative_url }}" alt="{{ page.title }}"></div>
+  {% endif %}
+
+  <article class="proj-body">
+    {{ content }}
+  </article>
+
+  {% if page.figure %}
+  <figure class="proj-figure">
+    <img src="{{ page.figure | relative_url }}" alt="">
+    {% if page.figure_caption %}<figcaption>{{ page.figure_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+
+</main>
+
+<footer class="proj-footer">
+  <div class="proj-wrap">
+    <span>&copy; {{ site.time | date: "%Y" }} Ricardo Maia Avelino</span>
+    <a href="{{ '/' | relative_url }}">ricardoavelino.github.io</a>
+  </div>
+</footer>
+
+<script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</body>
+</html>

@@ -183,6 +183,10 @@ collections:
     output: false
   teaching:
     output: false
+  # Standalone project / paper landing pages at /content/<slug>/
+  projectpages:
+    output: true
+    permalink: /content/:path/
 
 
 # Defaults
@@ -194,6 +198,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projectpages
+  - scope:
+      path: ""
+      type: projectpages
+    values:
+      layout: project
   # _teaching
   - scope:
       path: ""
