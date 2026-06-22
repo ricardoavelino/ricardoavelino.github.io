@@ -123,7 +123,7 @@
    Two-column layout with a persistent profile sidebar
    ========================================================= */
 .layout{display:grid; grid-template-columns:212px minmax(0,1fr); gap:48px; align-items:start; padding-top:30px}
-@media (max-width:760px){.layout{grid-template-columns:1fr; gap:22px; padding-top:18px}}
+@media (max-width:760px){.layout{grid-template-columns:minmax(0,1fr); gap:22px; padding-top:18px}}
 
 .profile{position:sticky; top:84px}
 @media (max-width:760px){.profile{position:static; text-align:center}}
