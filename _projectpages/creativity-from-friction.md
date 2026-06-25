@@ -5,10 +5,10 @@ authors: "Ricardo Maia Avelino<sup>1,2</sup>, Rita Sevastjanova<sup>2</sup>, Tom
 affiliations: "<sup>1</sup>Block Research Group, Dept. of Architecture &middot; <sup>2</sup>IVIA Lab, Dept. of Computer Science &middot; ETH Zürich, Switzerland"
 description: "Creativity from Friction — Human–AI interaction for exploratory structural design. ICML 2026 Workshop on Human–AI Co-Creativity."
 teaser: /images/papers/constrained.png
-paper: https://openreview.net/forum?id=cRdmvL4SSy
-# Add these as they are ready; each button only shows when set.
-# poster: /content/creativity-from-friction/poster.pdf
-# video:  https://youtu.be/...
+paper_soon: true                       # shows a "Paper Soon" pill
+# paper: https://openreview.net/forum?id=cRdmvL4SSy   # swap in when public
+poster: /files/creativity-from-friction/poster.pdf
+video: https://youtu.be/1071qD_cPbQ
 # hero_video: /content/creativity-from-friction/hero.mp4   # ~10s muted loop
 bibtex: |
   @inproceedings{avelino2026creativity,
@@ -24,4 +24,4 @@ bibtex: |
 
 AI agents that generate final answers based on user input often do not meet the needs of creative fields. Fields such as structural design and architecture need interactive systems that help users externalise and develop ideas, explore alternatives, and refine partial solutions. The final product of such designs needs to comply with many constraints concerning, e.g., spatial configuration, mechanical behaviour, material quantities, and costs. These constraints create friction in the design process, which can stimulate novel and creative solutions. In this paper, we discuss the misalignment between current generative AI goals to remove friction and provide final solutions and the needs of creators, such as structural designers, who develop ideas through iterative work. We present the design dimensions of systems allowing for constrained human–AI co-creation that rely on vision-language models making structural exploration conversational, multimodal, and responsive to evolving human intent in ways that follow and augment the discipline's creative process. Through a pilot design interface based on these principles and a study with experts in the field, this paper shows how structural designers perceive interactive AI systems and how such systems can support design space exploration by reducing repetitive modelling friction while preserving reflective design friction.
 
-<p class="proj-lead">Poster and intro video coming soon.</p>
+<p class="proj-lead">Full paper coming soon — to appear at the ICML&nbsp;2026 Workshop on Human–AI&nbsp;Co-Creativity.</p>
