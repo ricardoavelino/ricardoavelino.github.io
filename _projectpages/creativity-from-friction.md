@@ -5,8 +5,8 @@ authors: "Ricardo Maia Avelino<sup>1,2</sup>, Rita Sevastjanova<sup>2</sup>, Tom
 affiliations: "<sup>1</sup>Block Research Group, Dept. of Architecture &middot; <sup>2</sup>IVIA Lab, Dept. of Computer Science &middot; ETH Zürich, Switzerland"
 description: "Creativity from Friction — Human–AI interaction for exploratory structural design. ICML 2026 Workshop on Human–AI Co-Creativity."
 teaser: /images/papers/constrained.png
-paper_soon: true                       # shows a "Paper Soon" pill
-# paper: https://openreview.net/forum?id=cRdmvL4SSy   # swap in when public
+paper_soon: https://openreview.net/forum?id=cRdmvL4SSy   # "Paper Soon" pill, links to OpenReview
+# When the camera-ready is public, rename `paper_soon` to `paper` for a normal "Paper" button.
 poster: /files/creativity-from-friction/poster.pdf
 video: https://youtu.be/1071qD_cPbQ
 # hero_video: /content/creativity-from-friction/hero.mp4   # ~10s muted loop

@@ -301,5 +301,6 @@ body{ background:var(--bg); }
 .proj-body h2:first-child{margin-top:0}
 .proj-authors sup, .proj-affil sup{font-size:.62em; font-weight:600; padding:0 1px}
 
-.pbtn-soon{background:transparent; color:var(--muted); border:1px solid var(--hair); cursor:default}
-.pbtn-soon:hover{background:transparent; transform:none; box-shadow:none}
+.pbtn-soon{background:transparent; color:var(--muted); border:1px solid var(--hair)}
+.pbtn-soon:hover{background:transparent; color:var(--accent); border-color:var(--accent);
+  transform:translateY(-1px); box-shadow:none}
