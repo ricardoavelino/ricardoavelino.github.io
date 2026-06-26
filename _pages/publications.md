@@ -46,6 +46,7 @@ title: "Publications"
         {% if p.webpage %}<a class="plink" href="{{ p.webpage }}">Webpage</a>{% endif %}
         {% if p.video %}<a class="plink" href="{{ p.video }}">Video</a>{% endif %}
         {% if p.slides %}<a class="plink" href="{{ p.slides }}">Slides</a>{% endif %}
+        {% if p.projectpage %}<a class="plink plink-proj" href="{{ p.projectpage }}">Project Page</a>{% endif %}
       </div>
       {% if p.bibtex %}<div class="bibtex" id="bib-{{ forloop.index }}" hidden><span class="copy">Copy</span><code>{{ p.bibtex }}</code></div>{% endif %}
     </div>

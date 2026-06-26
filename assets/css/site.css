@@ -152,6 +152,8 @@
 .plink{display:inline-block; padding:2px 9px; border:1px solid var(--hair); border-radius:5px; color:var(--accent);
   text-decoration:none; font-weight:600; background:#fff; cursor:pointer; transition:background .2s ease, border-color .2s ease}
 .plink:hover{background:var(--tint); border-color:#cdd6df}
+.plink-proj{background:var(--accent); color:#fff; border-color:var(--accent)}
+.plink-proj:hover{background:var(--accent-soft); border-color:var(--accent-soft)}
 .bibtex{position:relative; margin:10px 0 2px; padding:13px 15px; background:#10202f; color:#e6edf5; border-radius:8px;
   font-family:ui-monospace, SFMono-Regular, Menlo, monospace; font-size:12px; line-height:1.55; overflow-x:auto; white-space:pre}
 .bibtex[hidden]{display:none}
