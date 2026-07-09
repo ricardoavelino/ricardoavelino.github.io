@@ -11,7 +11,7 @@ teaser: "/images/papers/augmented.jpg"
 bibtex: |
   @article{avelino2025augmented,
     author  = {Maia Avelino, R. and Yang, W. and Weichbrodt, A. and Ochsendorf, J. and Flatt, R. J.},
-    title   = {Augmented inspection for historic monuments},
+    title   = {Augmented Reality for Structural Inspection of Historic Monuments: The Case of Lausanne Cathedral},
     journal = {International Journal of Architectural Heritage},
     year    = {2025},
     doi     = {10.1080/15583058.2025.2578318},

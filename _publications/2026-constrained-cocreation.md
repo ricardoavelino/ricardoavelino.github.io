@@ -15,6 +15,7 @@ bibtex: |
     booktitle = {International Conference of Machine Learning (ICML 2026), Workshop on Human-AI Co-Creativity},
     address   = {Seoul},
     year      = {2026},
+    url       = {https://genaicreativity.org/icml2026/files/49/49_paper.pdf},
   }
 teaser: "/images/papers/constrained.png"
 ---
