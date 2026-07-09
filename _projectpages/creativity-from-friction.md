@@ -5,7 +5,7 @@ authors: "Ricardo Maia Avelino<sup>1,2</sup>, Rita Sevastjanova<sup>2</sup>, Tom
 affiliations: "<sup>1</sup>Block Research Group, Dept. of Architecture &middot; <sup>2</sup>IVIA Lab, Dept. of Computer Science &middot; ETH Zürich, Switzerland"
 description: "Creativity from Friction — Human–AI interaction for exploratory structural design. ICML 2026 Workshop on Human–AI Co-Creativity."
 teaser: /images/papers/constrained.png
-paper: https://genaicreativity.org/icml2026/files/49/49_paper.pdf
+paper: https://doi.org/10.48550/arXiv.2607.07521
 poster: /files/creativity-from-friction/poster.pdf
 video: https://youtu.be/1071qD_cPbQ
 # hero_video: /content/creativity-from-friction/hero.mp4   # ~10s muted loop
@@ -16,6 +16,7 @@ bibtex: |
     booktitle = {International Conference on Machine Learning (ICML 2026), Workshop on Human-AI Co-Creativity},
     address   = {Seoul, South Korea},
     year      = {2026},
+    doi       = {10.48550/arXiv.2607.07521},
   }
 ---
 
