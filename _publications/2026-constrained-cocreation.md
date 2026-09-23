@@ -12,7 +12,7 @@ bibtex: |
   @inproceedings{avelino2026constrained,
     author    = {Maia Avelino, R. and Sevastjanova, R. and Van Mele, T. and Block, P. and El-Assady, M.},
     title     = {Creativity from Friction: Human--{AI} Interaction for Exploratory Structural Design},
-    booktitle = {International Conference of Machine Learning (ICML 2026), Workshop on Human-AI Co-Creativity},
+    booktitle = {International Conference on Machine Learning (ICML 2026), Workshop on Human-AI Co-Creativity},
     address   = {Seoul},
     year      = {2026},
     doi       = {10.48550/arXiv.2607.07521},
