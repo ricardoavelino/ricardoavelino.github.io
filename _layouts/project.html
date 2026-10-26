@@ -28,6 +28,7 @@
   <div class="proj-links">
     {% if page.paper %}<a class="pbtn" href="{{ page.paper }}" target="_blank" rel="noopener">Paper</a>
     {% elsif page.paper_soon %}<a class="pbtn pbtn-soon" href="{{ page.paper_soon }}" target="_blank" rel="noopener">Paper&nbsp;Soon</a>{% endif %}
+    {% if page.arxiv %}<a class="pbtn" href="{{ page.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
     {% if page.poster %}<a class="pbtn" href="{{ page.poster }}" target="_blank" rel="noopener">Poster</a>{% endif %}
     {% if page.video %}<a class="pbtn" href="{{ page.video }}" target="_blank" rel="noopener">Intro&nbsp;Video</a>{% endif %}
     {% if page.code %}<a class="pbtn" href="{{ page.code }}" target="_blank" rel="noopener">Code</a>{% endif %}

@@ -7,6 +7,7 @@ venue: "Proceedings of the IASS Symposium 2026"
 authors: "<span class=\"me\">R. Maia Avelino</span>, M. El-Assady, T. Van Mele, P. Block"
 featured: true
 teaser: "/images/papers/co-design.png"
+paperurl: "https://doi.org/10.48550/arXiv.2610.31113"
 pdf: "https://pub-12d7216700584ed7a1b50eac1448d179.r2.dev/IASS_2026_-_IWSS_2026_paper_666.pdf"
 projectpage: "/content/can-ai-codesign/"
 bibtex: |
@@ -16,6 +17,6 @@ bibtex: |
     booktitle = {Proceedings of the IASS Symposium 2026},
     address   = {Turin},
     year      = {2026},
-    note      = {to appear},
+    doi       = {10.48550/arXiv.2610.31113},
   }
 ---

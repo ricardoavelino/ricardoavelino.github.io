@@ -6,6 +6,7 @@ affiliations: "<sup>1</sup>Block Research Group, Dept. of Architecture &middot; 
 description: "Can AI Co-Design Structures? — An AI agent for early-stage structural design. Proceedings of the IASS–IWSS 2026 Symposium, Turin."
 teaser: /images/projects/can-ai-codesign/workflow.png
 paper: https://pub-12d7216700584ed7a1b50eac1448d179.r2.dev/IASS_2026_-_IWSS_2026_paper_666.pdf
+arxiv: https://arxiv.org/abs/2610.31113
 bibtex: |
   @inproceedings{avelino2026canai,
     author    = {Maia Avelino, R. and El-Assady, M. and Van Mele, T. and Block, P.},
@@ -13,6 +14,7 @@ bibtex: |
     booktitle = {Proceedings of the IASS Symposium 2026},
     address   = {Turin, Italy},
     year      = {2026},
+    doi       = {10.48550/arXiv.2610.31113},
   }
 ---
 
